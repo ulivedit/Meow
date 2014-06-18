@@ -2,12 +2,13 @@
   position: fixed;
   top: 0;
   right: 0;
+  z-index: 999999;
 }
 
 .meow {
   position: relative;
   margin: 20px 20px 0 0;
-  z-index: 99999;
+
 }
 
 .meow .inner {
